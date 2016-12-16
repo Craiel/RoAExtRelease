@@ -1,0 +1,14 @@
+# Webstorm
+.idea
+
+# system
+Thumbs.db
+.DS_Store
+.~lock*
+
+# bin
+bin/
+
+RoAExt_raw.js
+
+RoAExtInternal*
