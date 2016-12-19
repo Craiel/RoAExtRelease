@@ -60,6 +60,7 @@ ul.avi{ list-style: none;  -webkit-margin-before: 0;  -webkit-margin-after: 0;  
 .createTimerFeedback{ margin-top: 10px;  font-size: large;  text-align: center;  color: red; }
 .timerDelete{ text-decoration: none!important;  margin-left: 1px; }
 .moduleWindow{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
+.moduleWindowContent{ height: 100%; }
 .chartWindow{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
 .chartTab{ width: 100%;  height: 250px;  top: 240px;  position: absolute; }
 .chartCategoryTab{ width: 100%;  height: 100%; }
@@ -73,3 +74,4 @@ ul.avi{ list-style: none;  -webkit-margin-before: 0;  -webkit-margin-after: 0;  
 .settingsWindow{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
 .settingsWindowContent{ overflow-y: scroll; }
 .timerEditorWindow{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
+.gainFilterCheckbox{ background-image: linear-gradient(to bottom, #025251 0, #012625 100%); }
