@@ -63,6 +63,8 @@
 .roaext-note-window{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
 .roaext-gain-window{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
 .roaext-gain-window-content{ overflow-y: scroll; }
+.roaext-gain-window-filter{ float: left;  width: 120px; }
+.roaext-gain-window-filter-last{ width: 120px; }
 .roaext-settings-window{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
 .roaext-settings-window-content{ overflow-y: scroll; }
 .roaext-time-editor-window{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
