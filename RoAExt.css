@@ -67,3 +67,7 @@
 .roaext-settings-window-content{ overflow-y: scroll; }
 .roaext-time-editor-window{ width: 800px;  height: 500px;  position: absolute;  top: 0;  left: 0; }
 .roaext-gain-filter-checkbox{ background-image: linear-gradient(to bottom, #025251 0, #012625 100%); }
+table.roaext{ margin-left: auto;  margin-right: auto;  border-collapse: collapse;  font-size: small;  font-weight: normal;  width: auto; }
+table.roaext > thead > tr > *,table.roaext > tbody > tr > *{ border: 1px solid;  padding: 2px;  text-align: center; }
+ul.roaext{ list-style: none;  -webkit-margin-before: 0;  -webkit-margin-after: 0;  -webkit-margin-start: 0;  -webkit-margin-end: 0;  -webkit-padding-start: 0; }
+#roaMenuContent a{ line-height: 26px;  border-top: 1px solid #01b0aa;  background: #025251; }
