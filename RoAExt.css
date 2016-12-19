@@ -70,4 +70,4 @@
 table.roaext{ margin-left: auto;  margin-right: auto;  border-collapse: collapse;  font-size: small;  font-weight: normal;  width: auto; }
 table.roaext > thead > tr > *,table.roaext > tbody > tr > *{ border: 1px solid;  padding: 2px;  text-align: center; }
 ul.roaext{ list-style: none;  -webkit-margin-before: 0;  -webkit-margin-after: 0;  -webkit-margin-start: 0;  -webkit-margin-end: 0;  -webkit-padding-start: 0; }
-#roaMenuContent a{ line-height: 26px;  border-top: 1px solid #01b0aa;  background: #025251; }
+#roaMenuContent a{ line-height: 26px;  border-top: 1px solid #01b0aa;  background: #025251;  width: 12.5%;  border-left: 1px solid #01b0aa;  background-image: -moz-linear-gradient(top, #025251 0, #012625 100%);  background-image: -webkit-gradient(left top, left bottom, color-stop(0, #025251), color-stop(100%, #012625));  background-image: -webkit-linear-gradient(top, #025251 0, #012625 100%);  background-image: -o-linear-gradient(top, #025251 0, #012625 100%);  background-image: -ms-linear-gradient(top, #025251 0, #012625 100%);  background-image: linear-gradient(to bottom, #025251 0, #012625 100%);  text-decoration: none!important; }
